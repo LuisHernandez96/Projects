@@ -8,7 +8,10 @@ Using Linux, when you comlpie the Client code, you need to add "-lpthread".
 
 When running the Client use this format: clientUDP dirIPServer
 
-Client commands:
+#Client commands:
+
 To enter the username: -u "username"
+
 To finish conection: -q
+
 to send private meessage: -p"username" "message"
